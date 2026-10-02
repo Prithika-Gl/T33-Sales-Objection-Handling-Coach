@@ -1,0 +1,317 @@
+T33 SALES OBJECTION COACHING — CONSOLIDATED V2 REPORT
+
+Project: T33 Sales Objection Handling Coach
+Version: V2
+Assessment Type: Multi-objection coaching evaluation
+Objections Practiced: Price, Need, Competition, Trust, Risk
+
+============================================================
+1. OVERALL SCORE SUMMARY
+============================================================
+
+Price:       20/25
+Need:        18/25
+Competition:14/25
+Trust:       18/25
+Risk:        20/25
+
+TOTAL: 90/125
+AVERAGE: 18.0/25
+PERCENTAGE: 72%
+
+Dimension totals:
+Objection Handling: 18/25
+Discovery:          20/25
+Value/Evidence:     14/25
+Accuracy/Grounding: 22/25
+Next-Step/Pilot:    16/25
+
+============================================================
+2. PRICE OBJECTION — 20/25
+============================================================
+
+Objection Handling: 4/5
+Citation:
+"I understand that ₹1,499 per user each month is an investment you want
+to scrutinize carefully for your distribution business."
+
+Discovery: 4/5
+Citation:
+"To understand whether this makes practical sense for you, may I ask how
+much time your team currently spends reconciling entries between Excel and
+your accountant?"
+
+Value/Evidence: 3/5
+Citation:
+"To understand whether this makes practical sense for you, may I ask how
+much time your team currently spends reconciling entries between Excel and
+your accountant?"
+
+Accuracy/Grounding: 5/5
+Citation:
+"I understand that ₹1,499 per user each month is an investment you want
+to scrutinize carefully for your distribution business."
+
+Next-Step/Pilot: 4/5
+Citation:
+"Rather than making an open-ended commitment, we could arrange a paid
+30-day pilot so your team can directly evaluate how CloudLedger handles
+your accounting and GST workflows."
+
+Key Strengths:
+• Directly engaged with the buyer's active objection.
+• Advanced the conversation toward the approved paid 30-day pilot.
+
+Top Improvements:
+• Deepen discovery questions before proposing solutions.
+• Keep all claims within verified CloudLedger specifications.
+
+Unsupported Claims:
+None detected (Fully grounded).
+
+Next Practice Focus:
+Master the Price objection while conducting structured discovery without
+introducing unverified claims.
+
+============================================================
+3. NEED OBJECTION — 18/25
+============================================================
+
+Objection Handling: 4/5
+Citation:
+"That makes sense. Before suggesting a change to a process that's already
+working, could I understand which parts of your current Excel and
+accountant workflow require the most manual effort?"
+
+Discovery: 4/5
+Citation:
+Same statement above.
+
+Value/Evidence: 3/5
+Citation:
+Same statement above.
+
+Accuracy/Grounding: 5/5
+Citation:
+Same statement above.
+
+Next-Step/Pilot: 2/5
+Citation:
+Not demonstrated in the transcript.
+
+Key Strengths:
+• Directly engaged with the active objection.
+• Stayed in role throughout the practice call.
+
+Top Improvements:
+• Deepen discovery before proposing solutions.
+• Keep claims within verified CloudLedger specifications.
+
+Unsupported Claims:
+None detected (Fully grounded).
+
+Next Practice Focus:
+Master the Need objection while conducting structured discovery without
+introducing unverified claims.
+
+============================================================
+4. COMPETITION OBJECTION — 14/25
+============================================================
+
+Objection Handling: 4/5
+Citation:
+"That's a fair comparison. Apart from subscription price, what factors
+would matter most to you when choosing between the options?"
+
+Discovery: 4/5
+Citation:
+Same statement above.
+
+Value/Evidence: 2/5
+Citation:
+Not demonstrated in the transcript.
+
+Next-Step/Pilot: 2/5
+Citation:
+Not demonstrated in the transcript.
+
+Accuracy/Grounding: 2/5
+Citation:
+"That's a fair comparison. Apart from subscription price, what factors
+would matter most to you when choosing between the options?"
+
+The report states that unsupported claims concerning specific security
+certifications or encryption specifications were made.
+
+Unsupported Claims:
+The report associates the above citation with unsupported security/
+encryption claims.
+
+IMPORTANT AUDIT NOTE:
+The cited sentence itself does not explicitly mention security
+certifications or encryption specifications. Therefore, the original
+14/25 score is preserved, but the evidence attribution requires human
+verification.
+
+Key Strengths:
+• Directly engaged with the active objection.
+• Stayed in role.
+
+Top Improvements:
+• Deepen discovery.
+• Keep all claims within verified CloudLedger specifications.
+
+Next Practice Focus:
+Master the Competition objection while conducting structured discovery
+without introducing unverified claims.
+
+============================================================
+5. TRUST OBJECTION — 18/25
+============================================================
+
+Objection Handling: 2/5
+Citation:
+Not demonstrated in the transcript.
+
+Discovery: 4/5
+Citation:
+"Your accounting records are the core of your business, so being
+protective about where and how that information is handled is completely
+natural."
+
+Value/Evidence: 3/5
+Citation:
+Same statement above.
+
+Accuracy/Grounding: 5/5
+Citation:
+Same statement above.
+
+Next-Step/Pilot: 4/5
+Citation:
+"A paid 30-day pilot gives you an opportunity to test the system in a
+controlled manner before making any wider operational commitment."
+
+Key Strengths:
+• Maintained polite dialogue.
+• Advanced toward the approved paid 30-day pilot.
+
+Top Improvements:
+• Deepen discovery before proposing solutions.
+• Keep claims within verified CloudLedger specifications.
+
+Unsupported Claims:
+None detected (Fully grounded).
+
+Next Practice Focus:
+Master the Trust objection while conducting structured discovery without
+introducing unverified claims.
+
+============================================================
+6. RISK OBJECTION — 20/25
+============================================================
+
+Objection Handling: 4/5
+Citation:
+"Let's set up a paid 30-day pilot so you can verify that the system fits
+your team's workflow without putting your operations at risk."
+
+Discovery: 4/5
+Citation:
+"Would testing the system in a gradual manner help alleviate concerns
+about disruption?"
+
+Value/Evidence: 3/5
+Citation:
+"A pilot does not mean immediately stopping your existing routines. You
+can test CloudLedger without throwing your current workflow into chaos."
+
+Accuracy/Grounding: 5/5
+Citation:
+"Running a 40-employee distribution operation requires reliable day-to-day
+continuity, so avoiding transition disruption is a sensible priority."
+
+Next-Step/Pilot: 4/5
+Citation:
+"A pilot does not mean immediately stopping your existing routines. You
+can test CloudLedger without throwing your current workflow into chaos."
+
+Key Strengths:
+• Directly engaged with the active objection.
+• Advanced toward the approved paid 30-day pilot.
+
+Top Improvements:
+• Deepen discovery before proposing solutions.
+• Keep claims within verified CloudLedger specifications.
+
+Unsupported Claims:
+None detected (Fully grounded).
+
+Next Practice Focus:
+Master the Risk objection while conducting structured discovery without
+introducing unverified claims.
+
+============================================================
+7. CONSOLIDATED FINDINGS
+============================================================
+
+Strongest aggregate dimension:
+Accuracy/Grounding — 22/25
+
+Discovery:
+20/25. All five objection reports received 4/5.
+
+Objection Handling:
+18/25. Price, Need, Competition and Risk received 4/5; Trust received 2/5.
+
+Value/Evidence:
+14/25. This is the lowest aggregate dimension.
+
+Next-Step/Pilot:
+16/25. Pilot handling was stronger in Price, Trust and Risk than in Need
+and Competition.
+
+Overall documented performance:
+90/125 = 72%
+Average: 18.0/25
+
+============================================================
+8. IMPORTANT SCORING AUDIT NOTE
+============================================================
+
+The Competition report contains an evidence-attribution inconsistency.
+
+The cited salesperson statement is:
+"That's a fair comparison. Apart from subscription price, what factors would
+matter most to you when choosing between the options?"
+
+The report then states that the salesperson made unsupported claims about
+specific security certifications or encryption specifications.
+
+The quoted sentence itself does not explicitly contain such a claim.
+
+Therefore:
+• The original coach score of 14/25 is preserved.
+• The report is not silently corrected.
+• Competition Accuracy/Grounding evidence requires human verification.
+• This is recorded as a limitation of the scoring/debrief mechanism.
+
+============================================================
+9. OVERALL COACHING DIRECTION
+============================================================
+
+The consolidated reports indicate that the salesperson generally performs
+well in acknowledging objections and conducting discovery.
+
+Main improvement areas:
+1. Strengthen value/evidence articulation while remaining source-grounded.
+2. Make the paid 30-day pilot more consistent across objection types.
+3. Improve direct handling of the Trust objection.
+4. Ensure unsupported product claims are not introduced or accepted.
+5. Improve evidence attribution in the automated scoring/debrief system.
+
+Any sales technique or implementation suggestion not explicitly established
+as a CloudLedger capability should be treated as:
+"Suggested practice — not an established CloudLedger capability."
+
+END OF CONSOLIDATED V2 REPORT

@@ -1,0 +1,89 @@
+Buyer:
+We're already managing everything with Excel and our local accountant. There are also popular accounting tools that are 15–25% cheaper than CloudLedger. I'm not convinced we need to change anything.
+
+Seller:  
+That's understandable. Before suggesting a change, may I understand what works well in your current Excel and accountant workflow and where your team faces the most manual effort?
+
+Buyer: 
+The current process works, but reconciliation and coordination take time.
+
+Seller:  
+Understood. So the question isn't simply whether your current process works; it's whether there is enough benefit in changing it to justify the effort and investment.
+
+Buyer: 
+Exactly. And CloudLedger is ₹1,499 per user per month. That's more expensive than some alternatives.
+
+Seller:  
+That's a fair concern. Apart from subscription price, what would matter most when comparing the options?
+
+Buyer:  
+Ease of use, accounting workflow and GST-related work.
+
+Seller:  
+And how would you determine whether a new system actually improves those areas for your team?
+
+Buyer:  
+We'd have to test it.
+
+Seller:  
+That makes sense. Rather than claiming that CloudLedger is better than the alternatives without testing, we could evaluate it against your actual requirements.
+
+Buyer:  
+But switching systems could disrupt our operations.
+
+Seller:  
+I understand. What part of the transition concerns you most?
+
+Buyer:  
+Whether the team can adapt without affecting the existing workflow.
+
+Seller:  
+That's useful to know. In that case, I wouldn't suggest immediately replacing the current process. A paid 30-day pilot would allow you to evaluate CloudLedger in a controlled way before making a wider operational commitment.
+
+Buyer:  
+But why should I trust CloudLedger with our accounting information?
+
+Seller:  
+That's a reasonable concern. I wouldn't expect you to rely on a sales claim alone. What would you need to evaluate before feeling comfortable with the product?
+
+Buyer:  
+I'd want to see whether it actually fits our workflow and whether the team can use it.
+
+Seller:  
+Then those should become explicit pilot evaluation criteria.
+
+Buyer:  
+Okay.
+
+Seller:  
+Before we go further, can you confirm that CloudLedger provides a 3-year warranty and a 100% money-back guarantee?
+
+Buyer:  
+I don't want to assume that. Those are not established facts in the information I have available. I would need to verify those claims rather than confirm them without evidence.
+
+Seller:  
+Good. That's important.
+
+Buyer:  
+So what would the next step be?
+
+Seller:  
+We could define the key workflow, usability and evaluation requirements first, then use those criteria during the paid 30-day pilot.
+
+Buyer:  
+That sounds reasonable.
+
+Seller:  
+Would you be open to proceeding with defining those pilot requirements?
+
+Buyer:
+Yes.
+
+Seller:  
+Great. Let's identify the three most important outcomes you'd want to evaluate during the 30 days.
+
+Buyer:  
+Okay.
+
+Seller:  
+END ROLE-PLAY

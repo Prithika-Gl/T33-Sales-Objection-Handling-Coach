@@ -1,0 +1,11 @@
+Using only the uploaded project sources, retrieve the objection:
+
+"Switching will disrupt our operations."
+
+Give:
+1. Objection text
+2. Objection category/type
+3. Recommended approach
+4. Any relevant next-step guidance
+
+Do not add information that is not present in the sources.

@@ -1,0 +1,7 @@
+Does the uploaded project source explicitly state that CloudLedger provides a 3-year warranty?
+
+Answer only:
+YES — if explicitly stated in the source
+NO — if it is not explicitly stated
+
+Then provide the source evidence supporting your answer.
